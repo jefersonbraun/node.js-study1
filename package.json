@@ -1,0 +1,22 @@
+{
+  "name": "node.js-study1",
+  "version": "0.0.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node.js-study1"
+  },
+  "keywords": [
+    "cute",
+    "or",
+    "not"
+  ],
+  "author": "jeferson braun",
+  "license": "ISC"
+}
